@@ -1,0 +1,40 @@
+= About this Repository
+
+This Repository contains some tools services that you may need when building a microservices based system with (CQRS) and (Event-Sourcing)
+
+= What is a microservices
+image::file.png[]
+
+Microservices are a software development technique
+—a variant of the service-oriented architecture (SOA) structural style—
+that arranges an application as a collection of loosely coupled services.
+In a microservices architecture,
+services are fine-grained and the protocols are lightweight.
+Defination from wikipedia : https://en.wikipedia.org/wiki/Microservices
+
+= Useful Readings
+
+https://microservices.io/
+
+= Tools (What to use when building a microservice)
+
+This list is not a must it's for reference and to be can be updated anyone using a different tool
+|===
+|Tool | Website
+|Java - Spring boot
+|https://spring.io/projects/spring-framework
+|Microsoft - .Net Core
+|https://docs.microsoft.com/en-us/dotnet/core/
+|Java - Grails Groovy
+|https://grails.org/
+|Java - Eclipse Vertx
+|https://vertx.io/
+|Java - Kotlin Helidon
+|https://helidon.io/
+|PHP - Fresh Squeezed Limonade
+|https://github.com/yesinteractive/fsl
+|PHP - Fresh Squeezed Limonade
+|https://github.com/yesinteractive/fsl
+
+|===
+
