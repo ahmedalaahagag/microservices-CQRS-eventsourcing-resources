@@ -249,6 +249,10 @@ This list is not a must it's for reference and to be can be updated anyone using
 |https://github.com/trentm/node-bunyan
 |Suro
 |https://github.com/Netflix/suro
+|CloudWatch
+|https://aws.amazon.com/cloudwatch
+|Kibana
+|https://www.elastic.co/kibana
 |===
 
 = Monitoring
@@ -275,6 +279,8 @@ This list is not a must it's for reference and to be can be updated anyone using
 |https://sensu.io/
 |Sysdig
 |https://sysdig.com/
+|NewRelic
+|https://newrelic.com/
 |===
 
 = Documentation
