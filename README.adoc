@@ -281,6 +281,10 @@ This list is not a must it's for reference and to be can be updated anyone using
 |https://sysdig.com/
 |NewRelic
 |https://newrelic.com/
+|zabbix
+|https://www.zabbix.com/
+|ntop
+|https://www.ntop.org/
 |===
 
 = Documentation
