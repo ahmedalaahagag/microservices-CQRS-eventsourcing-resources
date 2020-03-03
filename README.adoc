@@ -121,8 +121,8 @@ This list is not a must it's for reference and to be can be updated anyone using
 |https://mesosphere.github.io/marathon/
 |Amazon ECS
 |https://aws.amazon.com/ecs/
-|Amazon ECS
-|https://aws.amazon.com/ecs/
+|Amazon ECR
+|https://aws.amazon.com/ecr/
 |Azure K8s Service
 |https://azure.microsoft.com/en-us/services/kubernetes-service/
 |===
